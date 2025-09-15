@@ -430,3 +430,4 @@ SELECT
 FROM paired
 WHERE AvgSteps_Before30 IS NOT NULL
   AND AvgSteps_After30  IS NOT NULL;
+
